@@ -40,4 +40,5 @@ This Terraform project provisions a cloud infrastructure using multiple reusable
 
 ---
 
-!(app.png)
+![App Screenshot](app.png)
+
