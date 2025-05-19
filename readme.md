@@ -7,7 +7,7 @@ This Terraform project provisions a cloud infrastructure using multiple reusable
 
 Below is the high-level architecture of the infrastructure provisioned by this Terraform project:
 
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](architecture.png)
 
 ---
 
