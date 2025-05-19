@@ -4,9 +4,6 @@
 
 This Terraform project provisions a cloud infrastructure using multiple reusable modules to manage compute resources, networking, security groups, load balancing, storage, and key pairs.
 ## Architecture Diagram
-
-Below is the high-level architecture of the infrastructure provisioned by this Terraform project:
-
 ![Architecture Diagram](architecture.png)
 
 ---
